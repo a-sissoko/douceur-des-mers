@@ -36,6 +36,7 @@ header nav ul li {
 .container {
     background: rgba(0, 0, 0, 0.6);
     color:white;
+    min-height: 92vh;
 }
 
 h2 {
